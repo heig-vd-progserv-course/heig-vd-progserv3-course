@@ -1,14 +1,14 @@
 {
-	"name": "HEIG-VD DévProdMéd Course Development Container",
+	"name": "HEIG-VD ProgServ3 Course Development Container",
 	"dockerComposeFile": "compose.yaml",
 	"service": "devcontainer",
 	"runServices": ["mariadb", "plantuml"],
 	"workspaceFolder": "/workspace",
 	"features": {
-		"ghcr.io/devcontainers/features/docker-in-docker:2": {
+		"ghcr.io/devcontainers/features/docker-in-docker:4.1.3": {
 			"moby": false
 		},
-		"ghcr.io/devcontainers/features/node:1": {
+		"ghcr.io/devcontainers/features/node:2.1.1": {
 			"version": "24"
 		}
 	},

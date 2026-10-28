@@ -12,7 +12,7 @@ services:
     image: mariadb:latest
     environment:
       - MARIADB_RANDOM_ROOT_PASSWORD=true
-      - MYSQL_DATABASE=devprodmed
+      - MYSQL_DATABASE=progserv3
       - MYSQL_USER=user
       - MYSQL_PASSWORD=password
     ports:

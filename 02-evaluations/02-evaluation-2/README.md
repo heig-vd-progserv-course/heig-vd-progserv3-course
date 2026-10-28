@@ -1,4 +1,4 @@
-# DévProdMéd 2025-2026 - Évaluation 2
+# ProgServ3 2026-2027 - Évaluation 2
 
 - Dates : 05.05.2026 pour la classe T139 et 06.05.2026 pour la classe T147.
 
@@ -18,7 +18,7 @@
 
 ## Objectifs
 
-Tout au long du cours DévProdMéd, vous avez développé un mini-projet de réseau
+Tout au long du cours ProgServ3, vous avez développé un mini-projet de réseau
 social avec le framework Laravel de façon progressive et accompagnée, en
 ajoutant de nouvelles fonctionnalités à chaque séance, pour arriver à un réseau
 social de base fonctionnel.

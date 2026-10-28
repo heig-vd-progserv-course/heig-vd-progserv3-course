@@ -105,4 +105,4 @@ disposition lors de l'utilisation d'un contrôleur de type _"resource"_ se trouv
 <!-- URLs -->
 
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md

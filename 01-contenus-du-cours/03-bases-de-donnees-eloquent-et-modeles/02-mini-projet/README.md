@@ -1795,7 +1795,7 @@ l'insertion de données dupliquées :
 
    Illuminate\Database\UniqueConstraintViolationException
 
-  SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: users.id (Connection: sqlite, Database: /workspace/heig-vd-devprodmed-mini-projet/database/database.sqlite, SQL: insert into "users" ("id", "first_name", "last_name", "username", "email", "created_at", "updated_at") values (1, John, Doe, johndoe, john.doe@example.com, 2026-02-09 10:00:00, 2026-02-09 10:00:00))
+  SQLSTATE[23000]: Integrity constraint violation: 19 UNIQUE constraint failed: users.id (Connection: sqlite, Database: /workspace/database/database.sqlite, SQL: insert into "users" ("id", "first_name", "last_name", "username", "email", "created_at", "updated_at") values (1, John, Doe, johndoe, john.doe@example.com, 2026-02-09 10:00:00, 2026-02-09 10:00:00))
 ```
 
 Heureusement pour nous, Laravel offre une option pour supprimer toutes les
@@ -1968,7 +1968,7 @@ projets de développement.
 
 La solution du mini-projet est accessible dans un dépôt GitHub dédié à l'adresse
 suivante :
-<https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-mini-projet/tree/mini-projet-2>.
+<https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course-mini-project-solution/tree/mini-projet-2>.
 
 > [!NOTE]
 >
@@ -2032,4 +2032,4 @@ suivante :
 <!-- URLs -->
 
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md

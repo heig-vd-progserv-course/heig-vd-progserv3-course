@@ -1,4 +1,4 @@
-name: HEIG-VD DévProdMéd Course GitHub Workflow
+name: HEIG-VD ProgServ3 Course GitHub Workflow
 
 # Allow one concurrent deployment
 concurrency:
@@ -64,7 +64,7 @@ jobs:
 
       - name: Generate index.html with tree
         run: |
-          tree -H '.' --noreport --dirsfirst -T 'HEIG-VD DévProdMéd Course' -P "*.html|*.pdf" --prune --charset utf-8 -o index.html
+          tree -H '.' --noreport --dirsfirst -T 'HEIG-VD ProgServ3 Course' -P "*.html|*.pdf" --prune --charset utf-8 -o index.html
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
@@ -96,7 +96,7 @@ jobs:
         uses: softprops/action-gh-release@v3
         with:
           body: |
-            Cette nouvelle version contient les présentations au format PDF pour le cours [Développement de produit média (DévProdMéd)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6082) enseigné à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse !
+            Cette nouvelle version contient les présentations au format PDF pour le cours [Programmation serveur 3 (ProgServ3)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6082) enseigné à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse !
 
             Vous pouvez directement accéder aux contenus de cours de cette version avec le tag Git suivant : [`${{ github.ref_name }}`](${{ github.event.repository.html_url }}/tree/${{ github.ref_name }}).
           files: |

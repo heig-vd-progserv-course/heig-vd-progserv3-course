@@ -1,20 +1,19 @@
 ---
 marp: true
-theme: 'custom-marp-theme'
-size: '16:9'
-paginate: 'true'
+theme: "custom-marp-theme"
+size: "16:9"
+paginate: "true"
 author: "L. Delafontaine, avec l'aide de GitHub Copilot"
 description:
-  'Introduction et organisation du cours pour le cours DévProdMéd enseigné à la
-  HEIG-VD, Suisse'
-lang: 'fr'
-url: 'https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/01-introduction-et-organisation-du-cours/presentation.html'
-header:
-  '[**Introduction et organisation du cours**][contenu-complet-sur-github]'
+  "Introduction et organisation du cours pour le cours ProgServ3 enseigné à la
+  HEIG-VD, Suisse"
+lang: "fr"
+url: "https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/01-introduction-et-organisation-du-cours/presentation.html"
+header: "[**Introduction et organisation du cours**][contenu-complet]"
 footer:
-  '[**HEIG-VD**](https://heig-vd.ch) - [DévProdMéd
-  2025-2026](https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course)
-  - [CC BY-SA 4.0][licence]'
+  "[**HEIG-VD**](https://heig-vd.ch) - [ProgServ3
+  2026-2027](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course)
+  - [CC BY-SA 4.0][licence]"
 headingDivider: 6
 ---
 
@@ -25,10 +24,9 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course>
+[<img src="https://raw.githubusercontent.com/primer/octicons/refs/heads/main/icons/mark-github-24.svg" style="vertical-align: middle; width: 32px;" alt="GitHub logo"> `github.com/heig-vd-progserv-course/heig-vd-progserv3-course`](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course)
 
-Visualiser le contenu complet sur GitHub [à cette
-adresse][contenu-complet-sur-github].
+[Visualiser le contenu complet sur GitHub][contenu-complet].
 
 <small>L. Delafontaine, avec l'aide de
 [GitHub Copilot](https://github.com/features/copilot).</small>
@@ -37,23 +35,50 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Bienvenue au cours _"Développement de produit média (DévProdMéd)"_ !
+## Bienvenue au cours _"Programmation serveur 3 (ProgServ3)"_ !
 
 <!-- _class: lead -->
 
 ## Qui suis-je
 
+<div class="one-third-two-thirds-columns">
 <div class="center">
+
+**Ludovic  
+Delafontaine**
 
 <img src="https://avatars.githubusercontent.com/u/5037444?v=4" alt="Ludovic Delafontaine" width="200" class="rounded">
 
-**Ludovic Delafontaine**  
-[E-mail](mailto:ludovic.delafontaine@heig-vd.ch) ·
-[GitHub](https://github.com/ludelafo)
+[Mail](mailto:ludovic.delafontaine@heig-vd.ch) ·
+[GitHub](https://github.com/ludelafo) ·
+[LinkedIn](https://www.linkedin.com/in/ludelafo/)
 
 </div>
+<div>
 
-## Mes objectifs et souhaits pour DévProdMéd
+<small>
+
+**Parcours**
+
+- 2011-2015 : CFC en informatique @ ETML.
+- 2015-2019 : BSc en informatique @ HEIG-VD.
+- 2020-2024 : Collaborateur Ra&D @ HEIG-VD.
+- 2023-2026 : Artios + Enseignement @ HEIG-VD.
+
+**Enseignement**
+
+- [DAI](https://github.com/heig-vd-dai-course/heig-vd-dai-course) &
+  [MVP](https://github.com/heig-vd-mvp-course/heig-vd-mvp-course) @ TIC.
+- [UPInfo](https://github.com/heig-vd-upinfo-course/heig-vd-upinfo-course),
+  [ProgServ1](https://github.com/heig-vd-progserv-course/heig-vd-progserv1-course),
+  [ProgServ2](https://github.com/heig-vd-progserv-course/heig-vd-progserv2-course),
+  [ProgServ3](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course),
+  [DévAppliS](https://github.com/heig-vd-devapplis-course/heig-vd-devapplis-course)
+  @ COMEM.
+
+</small>
+
+## Mes objectifs et souhaits pour ProgServ3
 
 [ProgServ1](https://github.com/heig-vd-progserv-course/heig-vd-progserv1-course)
 et
@@ -74,7 +99,7 @@ existantes et éprouvées.
 Selon vos préférences, vous pouvez utiliser l'un des canaux suivants pour toutes
 questions relatives au cours :
 
-- En personne, durant les sessions de cours ou en dehors.
+- En personne, durant les séances de cours ou en dehors.
 - Par e-mail
   ([ludovic.delafontaine@heig-vd.ch](mailto:ludovic.delafontaine@heig-vd.ch)).
 - Microsoft Teams :
@@ -89,8 +114,7 @@ questions relatives au cours :
 _Cette présentation est un résumé du contenu complet disponible sur GitHub._
 
 _Pour plus de détails, retrouvez le [contenu complet sur
-GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
-document._
+GitHub][contenu-complet] ou en cliquant sur l'en-tête de ce document._
 
 ## Objectifs
 
@@ -164,9 +188,9 @@ Ces fonctionnalités seront évaluées lors de la deuxième évaluation.
 Le cours sera évalué à l'aide de deux évaluations :
 
 1. Une évaluation écrite (60% de la note finale) -
-   [Voir les détails](https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/02-evaluations/01-evaluation-1/README.md).
+   [Voir les détails](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/02-evaluations/01-evaluation-1/README.md).
 2. Une présentation orale (40% de la note finale) -
-   [Voir les détails](https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/02-evaluations/02-evaluation-2/README.md).
+   [Voir les détails](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/02-evaluations/02-evaluation-2/README.md).
 
 ![bg right:40%][illustration-modalites-devaluation]
 
@@ -218,13 +242,13 @@ Si l'anglais est une barrière pour vous, n'hésitez pas à me le faire savoir.
 
 ## Besoin de rafraîchissement ?
 
-L'unité d'enseignement DévProdMéd s'appuie sur les connaissances acquises en
+L'unité d'enseignement ProgServ3 s'appuie sur les connaissances acquises en
 [ProgServ1](https://github.com/heig-vd-progserv-course/heig-vd-progserv1-course)
 et
 [ProgServ2](https://github.com/heig-vd-progserv-course/heig-vd-progserv2-course).
 
 J'essaie de faire mon possible pour rappeler les concepts clés de cette unité
-d'enseignement avant de rentrer dans les concepts propres à DévProdMéd.
+d'enseignement avant de rentrer dans les concepts propres à ProgServ3.
 
 Néanmoins, si vous avez besoin d'un rafraîchissement plus approfondi, je vous
 invite à (re)voir les supports de cours de
@@ -348,7 +372,7 @@ Est-ce que vous avez des questions ?
 
 [licence]:
 	https://github.com/heig-vd-progserv-course/heig-vd-progserv1-course/blob/main/LICENSE.md
-[contenu-complet-sur-github]:
+[contenu-complet]:
 	https://github.com/heig-vd-progserv-course/heig-vd-progserv1-course/blob/main/01-contenus-du-cours/01-introduction-et-organisation-du-cours/README.md
 
 <!-- Illustrations -->

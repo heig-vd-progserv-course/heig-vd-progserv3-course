@@ -18,8 +18,6 @@ Ce travail est sous licence [CC BY-SA 4.0][licence].
   - [Exercice 2](#exercice-2)
   - [Exercice 3](#exercice-3)
   - [Exercice 4](#exercice-4)
-  - [Exercice 5](#exercice-5)
-  - [Exercice 6 - Bonus](#exercice-6---bonus)
 
 ## Exercices
 
@@ -113,26 +111,7 @@ projet PHP ? Que contient-il ?
 
 </details>
 
-### Exercice 5
-
-Créez un nouveau projet Laravel nommé `devprodmed-exercices` à l'aide de tout ce
-que vous avez appris jusqu'à présent. Stockez ce projet dans un endroit où vous
-pourrez le retrouver facilement pour les prochaines séances du cours.
-
-> [!IMPORTANT]
->
-> Ce projet sera utilisé pour les exercices pratiques dans les prochaines
-> séances du cours.
->
-> Assurez-vous de bien suivre les étapes et de noter toute difficulté rencontrée
-> afin de pouvoir en discuter en classe.
-
-### Exercice 6 - Bonus
-
-Si vous le souhaitez, vous pouvez également initialiser un dépôt Git/GitHub pour
-ce nouveau projet Laravel sur votre compte GitHub personnel.
-
 <!-- URLs -->
 
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md

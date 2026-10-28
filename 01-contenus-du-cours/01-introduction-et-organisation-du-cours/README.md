@@ -19,7 +19,7 @@ Ce travail est sous licence [CC BY-SA 4.0][licence].
 > À l'issue de cette séance, les personnes qui étudient devraient être capables
 > de :
 >
-> - Comprendre la structure et les objectifs du cours DévProdMéd.
+> - Comprendre la structure et les objectifs du cours ProgServ3.
 > - Identifier les modalités d'évaluation et les attentes associées.
 > - Planifier leur organisation de travail pour le semestre.
 >
@@ -151,13 +151,13 @@ de travailler sur le mini-projet.
 
 ## Besoin de rafraîchissement ?
 
-L'unité d'enseignement DévProdMéd s'appuie sur les connaissances acquises en
+L'unité d'enseignement ProgServ3 s'appuie sur les connaissances acquises en
 [ProgServ1](https://github.com/heig-vd-progserv-course/heig-vd-progserv1-course)
 et
 [ProgServ2](https://github.com/heig-vd-progserv-course/heig-vd-progserv2-course).
 
 J'essaie de faire mon possible pour rappeler les concepts clés de cette unité
-d'enseignement avant de rentrer dans les concepts propres à DévProdMéd.
+d'enseignement avant de rentrer dans les concepts propres à ProgServ3.
 
 Néanmoins, si vous avez besoin d'un rafraîchissement plus approfondi, je vous
 invite à (re)voir les supports de cours de
@@ -224,8 +224,8 @@ fait bien son travail que si elle le remet en question.
 <!-- URLs -->
 
 [presentation-web]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/01-introduction-et-organisation-du-cours/presentation.html
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/01-introduction-et-organisation-du-cours/presentation.html
 [presentation-pdf]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/01-introduction-et-organisation-du-cours/01-introduction-et-organisation-du-cours-presentation.pdf
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/01-introduction-et-organisation-du-cours/01-introduction-et-organisation-du-cours-presentation.pdf
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md

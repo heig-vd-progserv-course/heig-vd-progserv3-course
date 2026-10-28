@@ -5,14 +5,14 @@ size: "16:9"
 paginate: "true"
 author: "L. Delafontaine, avec l'aide de GitHub Copilot"
 description:
-  "Routes, paramètres et contrôleurs pour le cours DévProdMéd enseigné à la
+  "Routes, paramètres et contrôleurs pour le cours ProgServ3 enseigné à la
   HEIG-VD, Suisse"
 lang: "fr"
-url: "https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/05-routes-parametres-et-controleurs/presentation.html"
-header: "[**Routes, paramètres et contrôleurs**][contenu-complet-sur-github]"
+url: "https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/05-routes-parametres-et-controleurs/presentation.html"
+header: "[**Routes, paramètres et contrôleurs**][contenu-complet]"
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [DévProdMéd
-  2025-2026](https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course)
+  "[**HEIG-VD**](https://heig-vd.ch) - [ProgServ3
+  2026-2027](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course)
   - [CC BY-SA 4.0][licence]"
 headingDivider: 6
 ---
@@ -24,10 +24,9 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course>
+[<img src="https://raw.githubusercontent.com/primer/octicons/refs/heads/main/icons/mark-github-24.svg" style="vertical-align: middle; width: 32px;" alt="GitHub logo"> `github.com/heig-vd-progserv-course/heig-vd-progserv3-course`](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course)
 
-Visualiser le contenu complet sur GitHub [à cette
-adresse][contenu-complet-sur-github].
+[Visualiser le contenu complet sur GitHub][contenu-complet].
 
 <small>L. Delafontaine, avec l'aide de
 [GitHub Copilot](https://github.com/features/copilot).</small>
@@ -36,15 +35,14 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Plus de détails sur GitHub
+## Retrouvez le contenu complet de cette présentation sur GitHub
 
 <!-- _class: lead -->
 
 _Cette présentation est un résumé du contenu complet disponible sur GitHub._
 
-_Pour plus de détails, consulter le [contenu complet sur
-GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
-document._
+_Pour plus de détails, retrouvez le contenu complet [ici][contenu-complet] ou en
+cliquant sur l'en-tête de ce document._
 
 ## Objectifs (1)
 
@@ -409,7 +407,7 @@ Est-ce que vous avez des questions ?
 - Faire le mini-projet.
 - Poser des questions si nécessaire.
 
-➡️ [Visualiser le contenu complet sur GitHub.][contenu-complet-sur-github]
+➡️ [Visualiser le contenu complet sur GitHub.][contenu-complet]
 
 **N'hésitez pas à vous entraidez si vous avez des difficultés !**
 
@@ -429,10 +427,10 @@ Est-ce que vous avez des questions ?
 
 <!-- URLs -->
 
-[contenu-complet-sur-github]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/tree/main/01-contenus-du-cours/05-routes-parametres-et-controleurs/README.md
+[contenu-complet]:
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/tree/main/01-contenus-du-cours/05-routes-parametres-et-controleurs/README.md
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md
 
 <!-- Illustrations -->
 
