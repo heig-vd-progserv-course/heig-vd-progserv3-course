@@ -44,9 +44,7 @@ jobs:
             **/*.png
             **/*.svg
             **/*-presentation.pdf
-            **/*-quiz.pdf
             **/presentation.html
-            **/quiz.html
           if-no-files-found: error
           retention-days: 1
 
@@ -96,9 +94,8 @@ jobs:
         uses: softprops/action-gh-release@v3
         with:
           body: |
-            Cette nouvelle version contient les présentations au format PDF pour le cours [Programmation serveur 3 (ProgServ3)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6082) enseigné à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse !
+            Cette nouvelle version contient les présentations au format PDF pour le cours _"Programmation serveur 3 (ProgServ3)"_ enseigné à la [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch), Suisse !
 
             Vous pouvez directement accéder aux contenus de cours de cette version avec le tag Git suivant : [`${{ github.ref_name }}`](${{ github.event.repository.html_url }}/tree/${{ github.ref_name }}).
           files: |
             **/*/*-presentation.pdf
-            **/*/*-quiz.pdf
