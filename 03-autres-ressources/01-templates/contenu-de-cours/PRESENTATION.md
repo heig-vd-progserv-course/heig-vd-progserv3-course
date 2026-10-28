@@ -9,7 +9,7 @@ description:
   Suisse"
 lang: "fr"
 url: "{GITHUB_PAGES_URL}/{COURSE_CONTENTS_FOLDER}/{COURSE_CONTENT}/presentation.html"
-header: "[**{COURSE_CONTENT}**][contenu-complet-sur-github]"
+header: "[**{COURSE_CONTENT}**][contenu-complet]"
 footer:
   "[**{INSTITUTION}**]({INSTITUTION_URL}) - [{COURSE_CODE}
   {ACADEMIC_YEAR}]({GITHUB_REPOSITORY_URL}) - [{LICENSE_NAME}][licence]"
@@ -25,8 +25,7 @@ _paginate: false
 
 <{GITHUB_REPOSITORY_URL}>
 
-Visualiser le contenu complet sur GitHub [à cette
-adresse][contenu-complet-sur-github].
+Visualiser le contenu complet sur GitHub [à cette adresse][contenu-complet].
 
 <small>{AUTHOR}.</small>
 
@@ -34,15 +33,14 @@ adresse][contenu-complet-sur-github].
 
 ![bg opacity:0.1][illustration-principale]
 
-## Plus de détails sur GitHub
+## Retrouvez le contenu complet de cette présentation sur GitHub
 
 <!-- _class: lead -->
 
 _Cette présentation est un résumé du contenu complet disponible sur GitHub._
 
-_Pour plus de détails, consulter le [contenu complet sur
-GitHub][contenu-complet-sur-github] ou en cliquant sur l'en-tête de ce
-document._
+_Pour plus de détails, retrouvez le contenu complet [ici][contenu-complet] ou en
+cliquant sur l'en-tête de ce document._
 
 ## Objectifs
 
@@ -68,7 +66,7 @@ Est-ce que vous avez des questions ?
 - Faire le mini-projet.
 - Poser des questions si nécessaire.
 
-➡️ [Visualiser le contenu complet sur GitHub.][contenu-complet-sur-github]
+➡️ [Visualiser le contenu complet sur GitHub.][contenu-complet]
 
 **N'hésitez pas à vous entraidez si vous avez des difficultés !**
 
@@ -91,7 +89,7 @@ Est-ce que vous avez des questions ?
 
 <!-- URLs -->
 
-[contenu-complet-sur-github]:
+[contenu-complet]:
 	{GITHUB_REPOSITORY_URL}/tree/main/{COURSE_CONTENTS_FOLDER}/{COURSE_CONTENT_FOLDER}/README.md
 [licence]: {LICENSE_URL}
 

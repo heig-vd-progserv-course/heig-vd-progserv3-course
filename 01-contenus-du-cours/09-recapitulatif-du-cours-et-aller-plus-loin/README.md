@@ -19,8 +19,8 @@ ici : [Présentation (web)][presentation-web] · [Présentation
 <!-- URLs -->
 
 [presentation-web]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/09-recapitulatif-du-cours-et-aller-plus-loin/presentation.html
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/09-recapitulatif-du-cours-et-aller-plus-loin/presentation.html
 [presentation-pdf]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/09-recapitulatif-du-cours-et-aller-plus-loin/09-recapitulatif-du-cours-et-aller-plus-loin-presentation.pdf
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/09-recapitulatif-du-cours-et-aller-plus-loin/09-recapitulatif-du-cours-et-aller-plus-loin-presentation.pdf
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md

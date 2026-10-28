@@ -1609,7 +1609,7 @@ offrir une expérience utilisateur fluide et cohérente.
 
 La solution du mini-projet est accessible dans un dépôt GitHub dédié à l'adresse
 suivante :
-<https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-mini-projet/tree/mini-projet-4>.
+<https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course-mini-project-solution/tree/mini-projet-4>.
 
 > [!NOTE]
 >
@@ -1680,4 +1680,4 @@ suivante :
 <!-- URLs -->
 
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md

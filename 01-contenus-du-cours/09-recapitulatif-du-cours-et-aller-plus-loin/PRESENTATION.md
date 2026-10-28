@@ -5,15 +5,14 @@ size: "16:9"
 paginate: "true"
 author: "L. Delafontaine, avec l'aide de GitHub Copilot"
 description:
-  "Récapitulatif du cours et aller plus loin pour le cours DévProdMéd enseigné à
+  "Récapitulatif du cours et aller plus loin pour le cours ProgServ3 enseigné à
   la HEIG-VD, Suisse"
 lang: "fr"
-url: "https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/09-recapitulatif-du-cours-et-aller-plus-loin/presentation.html"
-header:
-  "[**Récapitulatif du cours et aller plus loin**][contenu-complet-sur-github]"
+url: "https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/09-recapitulatif-du-cours-et-aller-plus-loin/presentation.html"
+header: "[**Récapitulatif du cours et aller plus loin**][contenu-complet]"
 footer:
-  "[**HEIG-VD**](https://heig-vd.ch) - [DévProdMéd
-  2025-2026](https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course)
+  "[**HEIG-VD**](https://heig-vd.ch) - [ProgServ3
+  2026-2027](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course)
   - [CC BY-SA 4.0][licence]"
 headingDivider: 6
 ---
@@ -25,10 +24,9 @@ _class: lead
 _paginate: false
 -->
 
-<https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course>
+[<img src="https://raw.githubusercontent.com/primer/octicons/refs/heads/main/icons/mark-github-24.svg" style="vertical-align: middle; width: 32px;" alt="GitHub logo"> `github.com/heig-vd-progserv-course/heig-vd-progserv3-course`](https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course)
 
-Visualiser le contenu complet sur GitHub [à cette
-adresse][contenu-complet-sur-github].
+[Visualiser le contenu complet sur GitHub][contenu-complet].
 
 <small>L. Delafontaine, avec l'aide de
 [GitHub Copilot](https://github.com/features/copilot).</small>
@@ -47,7 +45,7 @@ adresse][contenu-complet-sur-github].
 
 ## Récapitulatif du cours
 
-Au travers de DévProdMéd, nous avons vu :
+Au travers de ProgServ3, nous avons vu :
 
 - Les fondamentaux du développement d'applications web avec Laravel.
 - Les concepts clés tels que :
@@ -187,7 +185,7 @@ Apéro time! 🥂
 
 [licence]:
 	https://github.com/heig-vd-progserv-course/heig-vd-progserv1-course/blob/main/LICENSE.md
-[contenu-complet-sur-github]:
+[contenu-complet]:
 	https://github.com/heig-vd-progserv-course/heig-vd-progserv1-course/blob/main/01-contenus-du-cours/09-recapitulatif-du-cours-et-aller-plus-loin/README.md
 
 <!-- Illustrations -->

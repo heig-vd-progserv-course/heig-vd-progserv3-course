@@ -1320,8 +1320,8 @@ logique de validation dans une seule classe.
 <!-- URLs -->
 
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md
 [presentation-web]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/06-formulaires-et-validation/presentation.html
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/06-formulaires-et-validation/presentation.html
 [presentation-pdf]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/06-formulaires-et-validation/06-formulaires-et-validation-presentation.pdf
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/06-formulaires-et-validation/06-formulaires-et-validation-presentation.pdf

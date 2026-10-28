@@ -505,19 +505,43 @@ de savoir où chercher l'information et comment apprendre par vous-même.
 
 ### Installation de Laravel
 
-Laravel s'installe via Composer :
+Installer un projet Laravel est simple grâce à Composer :
 
 ```bash
-# Installe l'installateur Laravel globalement avec Composer
-composer global require laravel/installer
+# Crée un nouveau projet Laravel
+composer create-project "laravel/laravel:^12.0" mon-projet
 ```
 
-Créer un nouveau projet Laravel :
+Laravel évaluant constamment, nous forçons ici la version 12.0 pour éviter des
+problèmes de compatibilité avec les versions futures.
 
-```bash
-# Crée un nouveau projet Laravel nommé "mon-projet"
-laravel new mon-projet
-```
+Tous les liens et commandes utilisés dans ce cours sont basés sur la version
+12.0 de Laravel. **Attention à utiliser la bonne version de la documentation
+lorsque vous la consultez en ligne.**.
+
+> [!WARNING]
+>
+> Vous pouvez basculer entre les versions de la documentation officielle de
+> Laravel en utilisant le sélecteur de version en haut à droite de la page de
+> documentation. Assurez-vous de sélectionner la version 12.0 pour suivre ce
+> cours.
+
+> [!TIP]
+>
+> Il existe un utilitaire en ligne de commande appelé `laravel` qui permet de
+> créer un nouveau projet Laravel avec la commande `laravel new`
+> ([source](https://laravel.com/framework/docs/12.x/installation)).
+>
+> Cependant, cette commande installe automatiquement la dernière version de
+> Laravel, sans pouvoir définir une version spécifique.
+>
+> Comme Laravel évolue continuellement, il est préférable d'utiliser la commande
+> `composer create-project` pour créer un projet Laravel avec une version
+> spécifique (ici, la version 12.x sur laquelle se base ce cours) afin d'éviter
+> des problèmes de compatibilité avec les versions futures.
+>
+> Dans le futur, vous pourrez utiliser la commande `laravel new` pour créer un
+> projet Laravel avec la dernière version disponible.
 
 ### Structure d'un projet Laravel
 
@@ -692,8 +716,8 @@ il est recommandé pour la prochaine séance de :
 <!-- URLs -->
 
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md
 [presentation-web]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/02-php-composer-et-laravel/presentation.html
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/02-php-composer-et-laravel/presentation.html
 [presentation-pdf]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/02-php-composer-et-laravel/02-php-composer-et-laravel-presentation.pdf
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/02-php-composer-et-laravel/02-php-composer-et-laravel-presentation.pdf

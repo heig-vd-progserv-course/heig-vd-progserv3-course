@@ -2052,7 +2052,7 @@ maîtriser.
 
 La solution du mini-projet est accessible dans un dépôt GitHub dédié à l'adresse
 suivante :
-<https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-mini-projet/tree/mini-projet-5>.
+<https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course-mini-project-solution/tree/mini-projet-5>.
 
 > [!NOTE]
 >
@@ -2115,4 +2115,4 @@ suivante :
 <!-- URLs -->
 
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md

@@ -1,8 +1,7 @@
 # Récapitulatif du cours et préparation à l'examen - Résultats des formulaires de feedback et évaluations GAPS
 
 Ce dossier contient les résultats des formulaires de feedback et les évaluations
-GAPS pour l'unité d'enseignement _"Développement de produit média
-(DévProdMéd)"_.
+GAPS pour l'unité d'enseignement _"Programmation serveur 3 (ProgServ3)"_.
 
 Ces évaluations sont utilisées pour recueillir les retours des personnes qui ont
 suivi l'unité d'enseignement et pour améliorer la qualité de l'enseignement.

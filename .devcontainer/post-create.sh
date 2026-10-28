@@ -34,11 +34,3 @@ sudo apt install --yes sqlite3 php-sqlite3
 
 # Install PHP and Composer
 sudo apt install --yes php-common php-cli php-mysql php-xml php-bcmath composer
-
-## Install Laravel Installer
-composer global require laravel/installer
-
-# Add Composer global bin to PATH
-tee -a ~/.bashrc > /dev/null <<"EOF"
-export PATH="${HOME}/.composer/vendor/bin:${PATH}"
-EOF

@@ -8,7 +8,7 @@ description:
   "Évaluation {EVALUATION_NUMBER} - {ACADEMIC_YEAR} pour le cours {COURSE_CODE}
   enseigné à la {INSTITUTION}, Suisse"
 lang: "fr"
-header: "[**{COURSE_CONTENT}**][contenu-complet-sur-github]"
+header: "[**{COURSE_CONTENT}**][contenu-complet]"
 footer:
   "[**{INSTITUTION}**]({INSTITUTION_URL}) - [{COURSE_CODE}
   {ACADEMIC_YEAR}]({GITHUB_REPOSITORY_URL}) - [{LICENSE_NAME}][licence]"
@@ -47,7 +47,7 @@ Est-ce que vous avez des questions ?
 - Faire le mini-projet.
 - Poser des questions si nécessaire.
 
-➡️ [Visualiser le contenu complet sur GitHub.][contenu-complet-sur-github]
+➡️ [Visualiser le contenu complet sur GitHub.][contenu-complet]
 
 **N'hésitez pas à vous entraidez si vous avez des difficultés !**
 
@@ -70,7 +70,7 @@ Est-ce que vous avez des questions ?
 
 <!-- URLs -->
 
-[contenu-complet-sur-github]:
+[contenu-complet]:
 	{GITHUB_REPOSITORY_URL}/tree/main/{COURSE_CONTENTS_FOLDER}/{COURSE_CONTENT_FOLDER}/README.md
 [licence]: {LICENSE_URL}
 

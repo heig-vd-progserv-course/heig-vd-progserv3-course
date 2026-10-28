@@ -12,17 +12,17 @@ Use the following information for your course materials, replacing the example
 values with those specific to your course:
 
 - GitHub repository URL (`GITHUB_REPOSITORY_URL`):
-  <https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course>
+  <https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course>
 - GitHub Pages URL (`GITHUB_PAGES_URL`):
-  <https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course>
-- Course title (`COURSE_TITLE`): Développement de produits médias
-- Course code (`COURSE_CODE`): DévProdMéd
+  <https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course>
+- Course title (`COURSE_TITLE`): Programmation serveur 3
+- Course code (`COURSE_CODE`): ProgServ3
 - Course language (`COURSE_LANGUAGE`): Français
 - Course author (`AUTHOR`): L. Delafontaine, avec l'aide de
   [GitHub Copilot](https://github.com/features/copilot)
 - Institution (`INSTITUTION`): HEIG-VD
 - Institution URL (`INSTITUTION_URL`): <https://heig-vd.ch>
-- Academic year (`ACADEMIC_YEAR`): 2025-2026
+- Academic year (`ACADEMIC_YEAR`): 2026-2027
 - License (`LICENSE_NAME`): CC BY-SA 4.0
 - License URL (`LICENSE_URL`): `{GITHUB_REPOSITORY_URL}/blob/main/LICENSE.md`
 

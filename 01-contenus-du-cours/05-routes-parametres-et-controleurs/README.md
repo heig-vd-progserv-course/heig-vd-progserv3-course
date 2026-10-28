@@ -153,10 +153,10 @@ Cette URL représente une ressource spécifique à l'aide de :
 - Des paramètres de requête (`?id=6082`).
 
 Cette URL permet d'accéder à une ressource spécifique, qui est la fiche de
-l'unité d'enseignement "Développement de produit média (DévProdMéd)". Lorsque
-quelqu'un accède à cette URL, une requête HTTP est envoyée au serveur, qui
-traite la requête et retourne une réponse contenant les données de la fiche de
-l'unité d'enseignement.
+l'unité d'enseignement "Programmation serveur 3 (ProgServ3)". Lorsque quelqu'un
+accède à cette URL, une requête HTTP est envoyée au serveur, qui traite la
+requête et retourne une réponse contenant les données de la fiche de l'unité
+d'enseignement.
 
 Autre exemple, dans notre application de réseau social, les ressources
 pourraient être les utilisateur.trices, les publications, les commentaires, etc.
@@ -639,8 +639,8 @@ il est recommandé pour la prochaine séance de :
 <!-- URLs -->
 
 [licence]:
-	https://github.com/heig-vd-devprodmed-course/heig-vd-devprodmed-course/blob/main/LICENSE.md
+	https://github.com/heig-vd-progserv-course/heig-vd-progserv3-course/blob/main/LICENSE.md
 [presentation-web]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/05-routes-parametres-et-controleurs/presentation.html
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/05-routes-parametres-et-controleurs/presentation.html
 [presentation-pdf]:
-	https://heig-vd-devprodmed-course.github.io/heig-vd-devprodmed-course/01-contenus-du-cours/05-routes-parametres-et-controleurs/05-routes-parametres-et-controleurs-presentation.pdf
+	https://heig-vd-progserv-course.github.io/heig-vd-progserv3-course/01-contenus-du-cours/05-routes-parametres-et-controleurs/05-routes-parametres-et-controleurs-presentation.pdf

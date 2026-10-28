@@ -1,7 +1,7 @@
-# HEIG-VD DévProdMéd Course
+# HEIG-VD ProgServ3 Course
 
 Bienvenue sur le dépôt principal du cours
-_"[Développement de produit média (DévProdMéd)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6082)"_
+_"[Programmation serveur 3 (ProgServ3)](https://gaps.heig-vd.ch/consultation/fiches/uv/uv.php?id=6082)"_
 enseigné à la
 [Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)](https://heig-vd.ch),
 Suisse !
